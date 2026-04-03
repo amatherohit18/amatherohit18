@@ -2,9 +2,8 @@
 <h3 align="center">AI/ML Engineer | Python | Machine Learning | Deep Learning</h3>
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
-  <a href="https://github.com/yourusername">GitHub</a>
+  <a href="www.linkedin.com/in/rohit-amathe">LinkedIn</a> •
+  <a href="hhttps://github.com/amatherohit18">GitHub</a>
 </p>
 
 ---
@@ -59,25 +58,6 @@
 
 👉 https://github.com/amatherohit18/Breast-Cancer-detection
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" />
-</p>
-
----
 ---
 
 ## 🤝 Let's Connect
