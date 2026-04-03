@@ -6,6 +6,10 @@
   <a href="https://github.com/amatherohit18">GitHub</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amatherohit18&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ## 🚀 About Me
