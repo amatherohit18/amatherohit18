@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/rohit-amathe">LinkedIn</a> •
-  <a href="hhttps://github.com/amatherohit18">GitHub</a>
+  <a href="https://github.com/amatherohit18">GitHub</a>
 </p>
 
 ---
