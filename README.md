@@ -66,10 +66,6 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amatherohit18&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=amatherohit18&theme=dark&border_radius=7" />
 </p>
 
