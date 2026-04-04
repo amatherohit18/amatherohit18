@@ -63,7 +63,7 @@
 👉 https://github.com/amatherohit18/Breast-Cancer-detection
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amatherohit18&show_icons=true&theme=radical" />
